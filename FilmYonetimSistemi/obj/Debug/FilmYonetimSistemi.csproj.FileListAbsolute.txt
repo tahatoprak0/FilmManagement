@@ -1,0 +1,14 @@
+C:\Users\TOPRAK\source\repos\90-FilmYonetimSistemi\FilmYonetimSistemi\bin\Debug\FilmYonetimSistemi.exe.config
+C:\Users\TOPRAK\source\repos\90-FilmYonetimSistemi\FilmYonetimSistemi\bin\Debug\FilmYonetimSistemi.exe
+C:\Users\TOPRAK\source\repos\90-FilmYonetimSistemi\FilmYonetimSistemi\bin\Debug\FilmYonetimSistemi.pdb
+C:\Users\TOPRAK\source\repos\90-FilmYonetimSistemi\FilmYonetimSistemi\bin\Debug\EntityFramework.dll
+C:\Users\TOPRAK\source\repos\90-FilmYonetimSistemi\FilmYonetimSistemi\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\TOPRAK\source\repos\90-FilmYonetimSistemi\FilmYonetimSistemi\bin\Debug\EntityFramework.xml
+C:\Users\TOPRAK\source\repos\90-FilmYonetimSistemi\FilmYonetimSistemi\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\TOPRAK\source\repos\90-FilmYonetimSistemi\FilmYonetimSistemi\obj\Debug\FilmYonetimSistemi.csproj.AssemblyReference.cache
+C:\Users\TOPRAK\source\repos\90-FilmYonetimSistemi\FilmYonetimSistemi\obj\Debug\FilmYonetimSistemi.csproj.CoreCompileInputs.cache
+C:\Users\TOPRAK\source\repos\90-FilmYonetimSistemi\FilmYonetimSistemi\obj\Debug\FilmYone.BA64A3E6.Up2Date
+C:\Users\TOPRAK\source\repos\90-FilmYonetimSistemi\FilmYonetimSistemi\obj\Debug\FilmYonetimSistemi.exe
+C:\Users\TOPRAK\source\repos\90-FilmYonetimSistemi\FilmYonetimSistemi\obj\Debug\FilmYonetimSistemi.pdb
+C:\Users\TOPRAK\source\repos\90-FilmYonetimSistemi\FilmYonetimSistemi\obj\Debug\FilmYonetimSistemi.Migrations.InitialCreate.resources
+C:\Users\TOPRAK\source\repos\90-FilmYonetimSistemi\FilmYonetimSistemi\obj\Debug\FilmYonetimSistemi.csproj.GenerateResource.cache
