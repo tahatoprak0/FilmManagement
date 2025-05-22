@@ -1,3 +1,16 @@
+## 🖼️ Ekran Görüntüleri
+
+### 📥 Ana Ekran
+<img src="https://raw.githubusercontent.com/tahatoprak0/FilmManagement/refs/heads/main/img/girisEkran.png" width="20%" height="20%"/>
+
+### 📥 Film Service
+<img src="https://raw.githubusercontent.com/tahatoprak0/FilmManagement/refs/heads/main/img/filmService.png" width="20%" height="20%"/>
+
+### 🔄 Yonetmen Service
+<img src="https://raw.githubusercontent.com/tahatoprak0/FilmManagement/refs/heads/main/img/YonetmenService.png" width="20%" height="20%"/>
+
+---
+
 ## 🚀 Yönetmen
 
 - ➕ Ekle
